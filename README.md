@@ -1,4 +1,4 @@
-# OASISINFOBYTE-Retail-Sales-EDA# OASIS INFOBYTE – Data Analytics Internship
+# OASISINFOBYTE/data analytic-level 1-task 1-Retail-Sales-EDA
 
 ## Task 1: Exploratory Data Analysis on Retail Sales Data
 
